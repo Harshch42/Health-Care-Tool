@@ -1,8 +1,10 @@
 # Rubix-23-27-codeZillas
 Domain -Ai/ml
 Problem Statement 2
-A HEALTH CARE PROVIDER IS AN INDIVIDUAL HEALTH PROFESSIONAL OR A HEALTH FACILITY ORGANIZATION LICENSED TO PROVIDE HEALTH CARE DIAGNOSIS AND TREATMENT SERVICES INCLUDING MEDICATION, SURGERY AND
-MEDICAL DEVICES. BEING A HEALTHCARE PROVIDER CAN BE EXHAUSTING AND HECTIC, HENCE A TOOL THAT SPECIFICALLY CATERS TO THE NEEDS OF DIFFERENT HEALTHCARE PROVIDERS
-COULD BE OF GREAT BENEFIT. CREATE A TOOL THAT HELPS HEALTHCARE PROVIDERS WITH DIAGNOSIS, DISEASE DETECTION, AND HAS USER FRIENDLY FEATURES FOR HEALTHCARE PROFESSIONALS. ONE CAN INTRODUCE
-FEATURES/ APPLICATIONS TO EASE PROCESSES OF HEALTHCARE ADMINISTRATION OR OPERATIONS. ANY INNOVATIVE FEATURE WHICH WILL ENHANCE THE HEALTHCARE INDUSTRY. SO USE AI / ML TOOLS TO CREATE AN
-INNOVATIVE SOLUTION FOR THIS SECTOR.
+Create a Healthcare tool.
+Diabetes : Acknowledgements
+Smith, J.W., Everhart, J.E., Dickson, W.C., Knowler, W.C., & Johannes, R.S. (1988). Using the ADAP learning algorithm to forecast the onset of diabetes mellitus. In Proceedings of the Symposium on Computer Applications and Medical Care (pp. 261--265). IEEE Computer Society Press.
+
+Heart Disease - Acknowledgement: This data comes from the University of California Irvine's Machine Learning Repository at https://archive.ics.uci.edu/ml/datasets/Heart+Disease.
+
+Liver Disease - Acknowledgements : The data set has been elicit from UCI Machine Learning Repository. My sincere thanks to them.
