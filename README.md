@@ -10,3 +10,8 @@ Smith, J.W., Everhart, J.E., Dickson, W.C., Knowler, W.C., & Johannes, R.S. (198
 Heart Disease [Accuracy( 81.48 % )]- Acknowledgement: This data comes from the University of California Irvine's Machine Learning Repository at https://archive.ics.uci.edu/ml/datasets/Heart+Disease.
 
 Liver Disease [Accuracy( 71.72 % )] - Acknowledgements : The data set has been elicit from UCI Machine Learning Repository. My sincere thanks to them.
+Preview -->
+![Image Alt Text](images/codezillas_page_1.png)
+![Image Alt Text](images/codezillas_page_2.png)
+![Image Alt Text](images/codezillas_page_3.png)
+![Image Alt Text](images/codezillas_page_4.png)
